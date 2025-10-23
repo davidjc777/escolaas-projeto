@@ -1,0 +1,4 @@
+Placeholder file to create videos directory.
+Replace with actual MP4 video files:
+- kids-development.mp4
+- kids-training.mp4
